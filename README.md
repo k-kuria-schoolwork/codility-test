@@ -17,3 +17,11 @@
 ### we use a case statement to handle each possible outcomes
 
 ### the code is available in codility.rb
+
+
+## Challenge 2 :Ordered count of characters
+
+## BDD
+### first split each charachter separately using .split(" ")
+### then have a method that counts each character .length
+### then joins the charachters back together using .join(" ")
